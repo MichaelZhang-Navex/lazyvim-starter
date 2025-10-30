@@ -1,4 +1,4 @@
-local CONFIG_HOME = '/home/michael/.config/nvim/'
+local CONFIG_HOME = "/home/michael/.config/nvim/"
 return {
   "mfussenegger/nvim-lint",
   optional = true,
