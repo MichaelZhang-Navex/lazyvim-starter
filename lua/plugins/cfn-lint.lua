@@ -29,6 +29,5 @@ return {
       },
     },
   },
-  -- Ensure schemastore.nvim is installed and configured
-  "b0o/schemastore.nvim",
+  "b0o/SchemaStore.nvim",
 }
